@@ -13,24 +13,24 @@ Current version: v3.0.4 (24/01/2022)
 
 Vencord Pink
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Pink.theme.css?token=GHSAT0AAAAAACXENLRBBGQU4VXM2C5ZUVZAZW3MFWQ
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Pink.theme.css?token=GHSAT0AAAAAACXENLRANQS6QEYEVT5G74OMZW3MNTQ
 ```
 Vencord Orange
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Orange.theme.css?token=GHSAT0AAAAAACXENLRAKMACPTCE5MKSEYXMZW3MGBA
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Orange.theme.css?token=GHSAT0AAAAAACXENLRBAWUF5M6REHN6EVEGZW3MNZA
 ```
 
 Vencord Sky Blue
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Sky%20Blue.theme.css?token=GHSAT0AAAAAACXENLRB6GMBMZR4GKGNIMOQZW3MJ5Q
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Sky%20Blue.theme.css?token=GHSAT0AAAAAACXENLRATNZKQRPG356ZRKJOZW3MNBA
 ```
 Vencord Neon Blue
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Neon%20Blue.theme.css?token=GHSAT0AAAAAACXENLRA3MNTKVB2YCDKPYLUZW3MGJQ
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Neon%20Blue.theme.css?token=GHSAT0AAAAAACXENLRAUNNZWW7H3I22TB7CZW3MN6A
 ```
 Vencord Green
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Green.theme.css?token=GHSAT0AAAAAACXENLRBYWRMG6WYYCAVYT6SZW3MG3Q
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Green.theme.css?token=GHSAT0AAAAAACXENLRAI7XWUHAHT2WKH3XGZW3MOCQ
 ```
 Vencord Blue (Original)
 ```
@@ -38,28 +38,28 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
 ```
 Vencord White & Black
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20W%26B.theme.css?token=GHSAT0AAAAAACXENLRBQE5MZ6JWYFVMCLBOZW3MDNQ
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20W%26B.theme.css?token=GHSAT0AAAAAACXENLRB7LXVDH52W7LQKCHEZW3MM3A
 ```
 Vencord Yellow
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Yellow.theme.css?token=GHSAT0AAAAAACXENLRABCN7Y5A2QJMYM7LWZW3MDGQ
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Yellow.theme.css?token=GHSAT0AAAAAACXENLRBXQ63MUZ54Y2PJDJ6ZW3MMNA
 ```
 Vencord Red
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Red.theme.css?token=GHSAT0AAAAAACXENLRABCTU7JSF2EOMNYS6ZW3ME2Q
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Red.theme.css?token=GHSAT0AAAAAACXENLRACGHWN2UPR35S42XOZW3MNIQ
 ```
 Vencord Purple
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Purple.theme.css?token=GHSAT0AAAAAACXENLRBCBCZCJ4ESCHLIWFWZW3MFFA
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Purple.theme.css?token=GHSAT0AAAAAACXENLRBJEIS4IVLLSJK5X2GZW3MNOA
 ```
 Vencord Creme
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Creme.theme.css?token=GHSAT0AAAAAACXENLRA36DNS2OH5AGTC4TWZW3MHEA
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Creme.theme.css?token=GHSAT0AAAAAACXENLRBSZRUK4VNJMXOWMUYZW3MOHQ
 ```
 
 Vencord Addon
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord_addon-material-you%20pink.theme.css?token=GHSAT0AAAAAACXENLRACI6MWKHLYF5FMCVKZW3MKRQ
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord_addon-material-you%20pink.theme.css?token=GHSAT0AAAAAACXENLRBH7EGOLH37B2L2OE4ZW3MMCQ
 ```
 
 This theme used `.light` and `.dark`
