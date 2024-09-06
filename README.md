@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Di
 
 Vencord Sky Blue
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Sky%20Blue.theme.css?token=GHSAT0AAAAAACXENLRB6LVS6II4GF5KVI66ZW3MD6Q
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Sky%20Blue.theme.css?token=GHSAT0AAAAAACXENLRB6GMBMZR4GKGNIMOQZW3MJ5Q
 ```
 Vencord Neon Blue
 ```
