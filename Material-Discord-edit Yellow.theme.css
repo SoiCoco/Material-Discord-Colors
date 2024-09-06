@@ -16,7 +16,7 @@
 :root {
 	/* ACCENT HSL AND TEXT COLOR SETTINGS */
 	--accent-hue: 50;
-	--accent-saturation: 71%;
+	--accent-saturation: 110%;
 	--accent-lightness: 100%;
 	/* --accent-text-color: hsl(0,0%,100%); */ /* DOES NOTHING WITH MATERIAL YOU ENABLED */
 	--accent-button-action: hsl(0,0%,100%);
