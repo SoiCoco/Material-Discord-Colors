@@ -27,11 +27,15 @@ Vencord Blue (Original)
 ```
 https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css
 ```
-Vencord White
+Vencord White & Black
 ```
 
 ```
-Vencord Black
+Vencord Yellow
+```
+
+```
+Vencord Red
 ```
 
 ```
