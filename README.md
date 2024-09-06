@@ -7,7 +7,7 @@ Current version: v3.0.4 (24/01/2022)
 
 #### It is personal and does not allow changes, it is not used publicly or to interfere with the original.
 
-Themes can be used with [Vencord](https://vencord.dev/)'RECOMMENDED' or [BetterDiscord](https://betterdiscord.app/)
+Themes can be used with [Vencord](https://vencord.dev/) 'RECOMMENDED' or [BetterDiscord](https://betterdiscord.app/)
 
 All theme used `.light` and `.dark`
 
