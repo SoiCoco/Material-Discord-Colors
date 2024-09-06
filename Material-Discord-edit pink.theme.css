@@ -8,6 +8,8 @@
  * @source https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20pink.theme.css
  */
 
+@import url(https://github.com/SoiCoco/Material-Discord-Edit/blob/main/source.css);
+
 :root {
 	/* ACCENT HSL AND TEXT COLOR SETTINGS */
 	--accent-hue: -25;
