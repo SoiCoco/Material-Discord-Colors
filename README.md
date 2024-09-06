@@ -13,15 +13,24 @@ Current version: v3.0.4 (24/01/2022)
 
 Vencord Pink
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20pink.theme.css?token=GHSAT0AAAAAACXENLRB4L5RNDTJBR26MHVYZW3KS7Q
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Pink.theme.css?token=GHSAT0AAAAAACXENLRBBGQU4VXM2C5ZUVZAZW3MFWQ
 ```
 Vencord Orange
 ```
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Orange.theme.css?token=GHSAT0AAAAAACXENLRAKMACPTCE5MKSEYXMZW3MGBA
+```
 
+Vencord Sky Blue
+```
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Sky%20Blue.theme.css?token=GHSAT0AAAAAACXENLRB6LVS6II4GF5KVI66ZW3MD6Q
+```
+Vencord Neon Blue
+```
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Neon%20Blue.theme.css?token=GHSAT0AAAAAACXENLRA3MNTKVB2YCDKPYLUZW3MGJQ
 ```
 Vencord Green
 ```
-
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Green.theme.css?token=GHSAT0AAAAAACXENLRBYWRMG6WYYCAVYT6SZW3MG3Q
 ```
 Vencord Blue (Original)
 ```
@@ -29,20 +38,28 @@ https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.cs
 ```
 Vencord White & Black
 ```
-
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20W%26B.theme.css?token=GHSAT0AAAAAACXENLRBQE5MZ6JWYFVMCLBOZW3MDNQ
 ```
 Vencord Yellow
 ```
-
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Yellow.theme.css?token=GHSAT0AAAAAACXENLRABCN7Y5A2QJMYM7LWZW3MDGQ
 ```
 Vencord Red
 ```
-
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Red.theme.css?token=GHSAT0AAAAAACXENLRABCTU7JSF2EOMNYS6ZW3ME2Q
+```
+Vencord Purple
+```
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Purple.theme.css?token=GHSAT0AAAAAACXENLRBCBCZCJ4ESCHLIWFWZW3MFFA
+```
+Vencord Creme
+```
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20Creme.theme.css?token=GHSAT0AAAAAACXENLRA36DNS2OH5AGTC4TWZW3MHEA
 ```
 
 Vencord Addon
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord_addon-material-you%20pink.theme.css?token=GHSAT0AAAAAACXENLRBXKT7FVQBNLP4Q6XEZW3KTDQ
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord_addon-material-you%20pink.theme.css?token=GHSAT0AAAAAACXENLRBBKXE5QW6JV5ROK5QZW3MCXQ
 ```
 
 This theme used `.light` and `.dark`
