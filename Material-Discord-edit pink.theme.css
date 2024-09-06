@@ -8,7 +8,10 @@
  * @source https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20pink.theme.css
  */
 
-@import url(https://github.com/SoiCoco/Material-Discord-Edit/blob/main/source.css);
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
+
+/* Material You addon */
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css);
 
 :root {
 	/* ACCENT HSL AND TEXT COLOR SETTINGS */
