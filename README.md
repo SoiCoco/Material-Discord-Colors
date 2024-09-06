@@ -10,17 +10,28 @@ Current version: v3.0.4 (24/01/2022)
 #### It is personal and does not allow changes, it is not used publicly or to interfere with the original.
 
 [Vencord Pink](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20Pink.theme.css)
+
 [Vencord Orange](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20Orange.theme.css)
+
 [Vencord Sky Blue](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20Sky%20Blue.theme.css)
+
 [Vencord Neon Blue](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20Neon%20Blue.theme.css)
+
 [Vencord Green](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20Green.theme.css)
+
 [Vencord Blue (Original)](https://github.com/CapnKitten/Material-Discord/blob/master/Material-Discord.theme.css)
+
 [Vencord White & Black](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20W%26B.theme.css)
+
 [Vencord Yellow](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20Yellow.theme.css)
 
 [Vencord Red](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20Red.theme.css)
+
 [Vencord Purple](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20Purple.theme.css)
+
 [Vencord Creme](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord-edit%20Creme.theme.css)
+
+<hr>
 
 [Vencord Addon "Material You"](https://github.com/SoiCoco/Material-Discord-Edit/blob/main/Material-Discord_addon-material-you%20pink.theme.css)
 
