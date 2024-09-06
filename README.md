@@ -6,8 +6,13 @@ Current version: v3.0.4 (24/01/2022)
 
 #### The reason for creating this repository is to change the colors without editing the code from the themes option, since inserting the URL in themes is much easier and saves resources. I did not create this theme, I just modified the colors to my liking. The original theme can be found at [CapnKitten](https://github.com/CapnKitten/Material-Discord/tree/master)
 
-
 #### It is personal and does not allow changes, it is not used publicly or to interfere with the original.
+
+All theme used `.light` and `.dark`
+
+[Vencord Addon "Material You"](https://github.com/SoiCoco/Material-Discord-Colors/blob/main/Material-Discord_addon-material-you%20pink.theme.css)
+
+<hr>
 
 [Vencord Pink](https://github.com/SoiCoco/Material-Discord-Colors/blob/main/Material-Discord-edit%20Pink.theme.css)
 #### Light
@@ -73,6 +78,4 @@ Current version: v3.0.4 (24/01/2022)
 
 <hr>
 
-[Vencord Addon "Material You"](https://github.com/SoiCoco/Material-Discord-Colors/blob/main/Material-Discord_addon-material-you%20pink.theme.css)
-
-All theme used `.light` and `.dark`
+#### Credits [@CapnKitten](https://github.com/CapnKitten/)
