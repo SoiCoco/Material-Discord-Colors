@@ -11,34 +11,34 @@ Current version: v3.0.4 (24/01/2022)
 
 
 
-Vencord link Pink
+Vencord Pink
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20pink.theme.css?token=GHSAT0AAAAAACXENLRA6J35AG3TSUHD2NVCZW3JTWA
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20pink.theme.css?token=GHSAT0AAAAAACXENLRB4L5RNDTJBR26MHVYZW3KS7Q
 ```
-Vencord link Orange
-```
-
-```
-Vencord link Green
+Vencord Orange
 ```
 
 ```
-Vencord link Blue (Original)
+Vencord Green
+```
+
+```
+Vencord Blue (Original)
 ```
 https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css
 ```
-Vencord link White
+Vencord White
 ```
 
 ```
-Vencord link Black
+Vencord Black
 ```
 
 ```
 
-Vencord link Addon
+Vencord Addon
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord_addon-material-you%20pink.theme.css?token=GHSAT0AAAAAACXENLRA3GXVUBGXDKNQ57YEZW3JT2A
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord_addon-material-you%20pink.theme.css?token=GHSAT0AAAAAACXENLRBXKT7FVQBNLP4Q6XEZW3KTDQ
 ```
 
 This theme used `.light` and `.dark`
