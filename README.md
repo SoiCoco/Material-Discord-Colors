@@ -9,9 +9,31 @@ Current version: v3.0.4 (24/01/2022)
 
 #### It is personal and does not allow changes, it is not used publicly or to interfere with the original.
 
-Vencord link Theme
+
+
+Vencord link Pink
 ```
 https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20pink.theme.css?token=GHSAT0AAAAAACXENLRA6J35AG3TSUHD2NVCZW3JTWA
+```
+Vencord link Orange
+```
+
+```
+Vencord link Green
+```
+
+```
+Vencord link Blue (Original)
+```
+https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css
+```
+Vencord link White
+```
+
+```
+Vencord link Black
+```
+
 ```
 
 Vencord link Addon
