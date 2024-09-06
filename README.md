@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Di
 
 Vencord Addon
 ```
-https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord_addon-material-you%20pink.theme.css?token=GHSAT0AAAAAACXENLRBBKXE5QW6JV5ROK5QZW3MCXQ
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord_addon-material-you%20pink.theme.css?token=GHSAT0AAAAAACXENLRACI6MWKHLYF5FMCVKZW3MKRQ
 ```
 
 This theme used `.light` and `.dark`
