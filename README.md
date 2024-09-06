@@ -9,8 +9,14 @@ Current version: v3.0.4 (24/01/2022)
 
 #### It is personal and does not allow changes, it is not used publicly or to interfere with the original.
 
-Vencord link
+Vencord link theme Material Design
+```
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord-edit%20pink.theme.css?token=GHSAT0AAAAAACXENLRA6J35AG3TSUHD2NVCZW3JTWA
 ```
 
+Vencord link addon Material You
 ```
+https://raw.githubusercontent.com/SoiCoco/Material-Discord-Edit/main/Material-Discord_addon-material-you%20pink.theme.css?token=GHSAT0AAAAAACXENLRA3GXVUBGXDKNQ57YEZW3JT2A
+```
+
 This theme used `.light` and `.dark`
