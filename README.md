@@ -1,4 +1,4 @@
-# Material-Discord-Colors
+# Material Discord Colors
 A theme based on Google's Material Design by [@CapnKitten](https://github.com/CapnKitten/Material-Discord/tree/master)
 
 Current version: v3.0.4 (24/01/2022)
