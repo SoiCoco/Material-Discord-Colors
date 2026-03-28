@@ -7,7 +7,7 @@ Theme created by [@CapnKitten](https://github.com/CapnKitten/Material-Discord/tr
 All theme used `.light` and `.dark`
 
 <hr>
-Black & White
+#### Black&White
 
 #### Light
 <img width="1573" height="857" alt="B WLight" src="https://github.com/user-attachments/assets/a42eda35-57c1-4f13-9409-7faf9b7da0d1" />
