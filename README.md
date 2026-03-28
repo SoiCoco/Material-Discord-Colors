@@ -7,6 +7,7 @@ Theme created by [@CapnKitten](https://github.com/CapnKitten/Material-Discord/tr
 All theme used `.light` and `.dark`
 
 <hr>
+
 [Black&White](https://github.com/SoiCoco/Material-Discord-Colors/blob/v3.0.5/Old-Material-Discord%20ByW.theme.css)
 
 #### Light
@@ -36,6 +37,7 @@ All theme used `.light` and `.dark`
 <img width="1573" height="857" alt="GreenYellowDark" src="https://github.com/user-attachments/assets/8a6c641e-2a1a-4363-b26e-ecd811b733d6" />
 
 <hr>
+
 [Pink](https://github.com/SoiCoco/Material-Discord-Colors/blob/v3.0.5/Old-Material-Discord%20Pink.theme.css)
 
 #### Light
@@ -115,8 +117,8 @@ All theme used `.light` and `.dark`
 <img width="1573" height="857" alt="VioletDark" src="https://github.com/user-attachments/assets/a5a32272-5a96-492c-ae9a-466752aea937" />
 
 <hr>
-[
-Yellow](https://github.com/SoiCoco/Material-Discord-Colors/blob/v3.0.5/Old-Material-Discord%20Yellow.theme.css)
+
+[Yellow](https://github.com/SoiCoco/Material-Discord-Colors/blob/v3.0.5/Old-Material-Discord%20Yellow.theme.css)
 
 #### Light
 <img width="1573" height="857" alt="YellowLight" src="https://github.com/user-attachments/assets/a02197b0-8137-41d4-9995-d3c15d35aa37" />
